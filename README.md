@@ -83,3 +83,6 @@ TOKEN=NjIwMDA4MDMyNjkyMjA3NjI3.XXQipQ.etUqi_mawR7SW_kaVAOxSuauag4
 ![Preview15](https://raw.githubusercontent.com/socializemeserver/Tutorial/master/df/015.png)
 
 9-Now to give a test go to the server where you invited the bot and type !hello  the bot gonna answer "hello"
+
+
+Check this bot from https://glitch.com/~ginnas-tutorial
