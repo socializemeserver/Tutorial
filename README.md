@@ -11,7 +11,8 @@ Creating the Bot App.
 
 2-Choose "New Aplication" , pick whatever name and press "create".
 
-![Preview](https://raw.githubusercontent.com/socializemeserver/Tutorial/master/02.jpeg)
+![Preview2](https://raw.githubusercontent.com/socializemeserver/Tutorial/master/02.jpeg)
+
 
 3-Copy the Client ID and paste it in some place  you will need it. For this tutorial the Client id is: 620008032692207627
 
