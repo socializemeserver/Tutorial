@@ -26,7 +26,7 @@ client.on('ready', () => {
 client.on('message', (message) => {
 
 //commands goes here
-
+if(message.content=="!hello"){message.reply("hello.")}
 });
 
 client.login(process.env.TOKEN);
