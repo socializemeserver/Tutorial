@@ -4,10 +4,10 @@ How to make a discord bot.
 Creating the Bot App.
 
 1-Go to https://discordapp.com/    and pick from the menu.  "Developers --> Developer Portal".  Login with your discord account.
- ![01](01.jpeg) 
+ 
+![Preview](https://raw.githubusercontent.com/socializemeserver/Tutorial/blob/master/01.png)
 
 
-https://raw.githubusercontent.com/socializemeserver/Tutorial/blob/master/01.png
 
 2-Choose "New Aplication" , pick whatever name and press "create".
 
