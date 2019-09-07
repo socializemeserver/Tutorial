@@ -5,6 +5,8 @@ Creating the Bot App.
 
 1-Go to https://discordapp.com/    and pick from the menu.  "Developers --> Developer Portal".  Login with your discord account.
 
+https://raw.githubusercontent.com/socializemeserver/Tutorial/master/1.jpeg
+
 2-Choose "New Aplication" , pick whatever name and press "create".
 
 3-Copy the Client ID and paste it in some place  you will need it. For this tutorial the Client id is: 620008032692207627
