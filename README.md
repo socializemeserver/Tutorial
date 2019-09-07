@@ -7,7 +7,7 @@ Creating the Bot App.
  ![1](1.jpeg) 
 
 
-https://raw.githubusercontent.com/socializemeserver/Tutorial/blob/master/1.jpeg
+https://raw.githubusercontent.com/socializemeserver/Tutorial/blob/master/01.png
 
 2-Choose "New Aplication" , pick whatever name and press "create".
 
